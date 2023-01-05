@@ -37,3 +37,9 @@
     font-size: 19px;
     font-weight: 700;
 }
+
+.list {
+    display: flex;
+    flex-direction: column;
+    gap: 12px;
+}
